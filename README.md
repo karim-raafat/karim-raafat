@@ -10,7 +10,7 @@ About Me:
 - 📫 You can reach me at karimahmedraafat2004@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Karim Ahmed Raafat) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-ahmed-raafat-42b0062b5/) 
 
 # 💻 Tech Stack:
 
